@@ -4,7 +4,7 @@ Este repositório contém uma seleção de projetos desenvolvidos para demonstra
 
 - Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDZhYzY3ZWMtZmVjNC00MTQ2LWE5MTAtMzYxYTRmMjQ0MDFkIiwidCI6IjAwNDY2YWI5LWM1NjAtNDlmMC04NmFmLTIzOGJlNGExYWM2NyJ9
 
-  • Visualização de dados interativa focada em *análise de vendas por plataforma e gênero, tendência de crescimento e KPI's.
+  • Visualização de dados interativa focada em Análise de vendas por plataforma e gênero, tendência de crescimento e KPI's.
 
 🛠️ O que desenvolvi no projeto
 
