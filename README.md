@@ -34,6 +34,6 @@ Avaliar o comportamento de vendas, identificar categorias com maior faturamento 
 - Aproximadamente 73% das entregas realizadas dentro do prazo
 - Baixa taxa de pedidos cancelados
 
-🔗 Dashboard Online: [Acessar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDZhYzY3ZWMtZmVjNC00MTQ2LWE5MTAtMzYxYTRmMjQ0MDFkIiwidCI6IjAwNDY2YWI5LWM1NjAtNDlmMC04NmFmLTIzOGJlNGExYWM2NyJ9)
+🔗 Dashboard Games: [Acessar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDZhYzY3ZWMtZmVjNC00MTQ2LWE5MTAtMzYxYTRmMjQ0MDFkIiwidCI6IjAwNDY2YWI5LWM1NjAtNDlmMC04NmFmLTIzOGJlNGExYWM2NyJ9)
 
-🔗 Dashboard Online: [Acessar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzkxZDg4ZWMtMWE4Zi00NGQ4LWIzMzktMjI3MDE2OTZmNDFmIiwidCI6IjAwNDY2YWI5LWM1NjAtNDlmMC04NmFmLTIzOGJlNGExYWM2NyJ9)
+🔗 Dashboard SuperLoja: [Acessar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzkxZDg4ZWMtMWE4Zi00NGQ4LWIzMzktMjI3MDE2OTZmNDFmIiwidCI6IjAwNDY2YWI5LWM1NjAtNDlmMC04NmFmLTIzOGJlNGExYWM2NyJ9)
