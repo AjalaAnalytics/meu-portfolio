@@ -1,6 +1,7 @@
 # 📊 Pedro Ajala — Data Analyst
 
-Portfólio de projetos em Power BI e Análise de Dados.
+Portfólio de projetos em Análise de Dados com foco em Power BI, KPIs e geração de insights para tomada de decisão.
+
 
 ---
 
